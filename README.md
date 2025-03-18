@@ -1,5 +1,10 @@
+# 🌟 Project Name
+
+## 📌 Description
+This project is a simple and responsive webpage built using HTML and CSS. It demonstrates a clean user interface with a welcoming message and a clickable button. The project is designed to be beginner-friendly and serves as a foundation for learning basic web development concepts.
+
 ## 🎨 Demo Preview (HTML & CSS)
-Here is a simple **HTML & CSS** snippet from the project:
+Here is a simple HTML & CSS snippet from the project:
 
 ```html
 <!DOCTYPE html>
@@ -36,3 +41,58 @@ Here is a simple **HTML & CSS** snippet from the project:
     <button class="btn">Click Me!</button>
 </body>
 </html>
+```
+
+📌 Output Preview: This code creates a basic webpage with a button.
+
+---
+
+🔹 **Features**
+- 🖼 Beautiful UI with simple HTML & CSS.
+- 🚀 Responsive and easy to use.
+- 🛠 Customizable styles.
+
+---
+
+🚀 **How to Run the Project**
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+   ```
+2. Navigate to the project directory:  
+   ```bash
+   cd repository-name
+   ```
+3. Open `index.html` in a browser to see the output.
+
+---
+
+🤝 **Contribution Guidelines**
+1. Fork the repository.
+2. Create a new branch for your changes:  
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. Make changes and commit:  
+   ```bash
+   git commit -m "Added new feature"
+   ```
+4. Push to GitHub and create a Pull Request.
+
+---
+
+📜 **License**  
+This project is licensed under MIT License.
+
+---
+
+👥 **Team & Contributors**
+- Your Name
+- Contributor Name
+
+---
+
+🎯 **Task 1 Deliverables**
+✅ A completed `README.md` file in the GitHub repository with formatted text and HTML & CSS snippets.  
+✅ Preview of HTML & CSS Code inside the README.  
+✅ Project features and how-to instructions included
